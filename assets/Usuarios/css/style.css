@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900');
+body {
+  background-color: #1f2029;
+  color: green;
+}
+/* Estilos específicos para los elementos que deseas resaltar en la vista */
+.form-control {
+  background-color: #1f2029;
+  color: green;
+  border-color: green;
+}
+.btn-primary {
+  background-color: #1f2029;
+  border-color: green;
+}
+/* Agrega estos estilos adicionales para la tabla */
+.table {
+background-color: #1f2029;
+color: green;
+border-color: green;
+}
+
+/* Estilo para las celdas de encabezado y contenido de la tabla */
+.table th,
+.table td {
+background-color: #1f2029;
+color: green;
+border-color: green;
+}
+
+/* Estilo para resaltar filas al pasar el mouse por encima */
+.table tbody tr:hover {
+background-color: green;
+color: #1f2029;
+}
